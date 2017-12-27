@@ -1,4 +1,4 @@
-# S-Air-AUVSI-SUAS-2018
+# S-Air AUVSI-SUAS-2018
 
 Görevlerin tek tek dosyaları oluşturulup eklenecek aşagida başlıklar halinde görevler var.<br />
 Kodlar paylaşılırken düzenli bir şekilde (örn. Otonom_uçuşV1, Otonom_uçuşV2) paylaşılırsa güzel olur.<br />
