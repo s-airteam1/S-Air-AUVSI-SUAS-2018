@@ -36,6 +36,7 @@ Bu github sayfası düzenlenirken bu sistemin kullanılışı pekiştirilecek<br
 ---Mehmet--<br />
 
 # SPONSORLAR
+# Sponsorlar için bir dosya hazırlanacak!!!
 Büyük Türk firmalarına herkes ulaşabildigi kadar mesaj atacak.<br />
 Ender:Torku'dan randevu alacak, Konya'daki diger firmalara bakacak.<br />
 Hasan: THY ile sponsorluk araştırması yapacak.<br />
